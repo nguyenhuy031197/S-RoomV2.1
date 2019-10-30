@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "415803340400",
+    "firebase_url": "https://fir-roomv21.firebaseio.com",
+    "project_id": "fir-roomv21",
+    "storage_bucket": "fir-roomv21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415803340400:android:3d48132674a6ecd487e6b5",
+        "android_client_info": {
+          "package_name": "com.example.s_roomv21"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415803340400-m8vqfsgv828jo93i0pgibia8jiv4r9u7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.s_roomv21",
+            "certificate_hash": "a50d4f1c26a69a2cb16c09aad5e293eea9683eac"
+          }
+        },
+        {
+          "client_id": "415803340400-co5h07q0sqh87j0n5lkc9kcvdbtv5scd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSKTRBomyhRTMu68jyMDUYgxLtcmZ73HE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415803340400-co5h07q0sqh87j0n5lkc9kcvdbtv5scd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
